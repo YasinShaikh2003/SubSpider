@@ -11,7 +11,7 @@ SubSpider is a CLI-based passive subdomain discovery tool that finds subdomains 
 
 ## Installation
 
-git clone https://github.com/yourusername/SubSpider.git
+git clone https://github.com/YasinShaikh2003/SubSpider.git
 
 cd SubSpider
 

@@ -4,7 +4,7 @@ setup(
     name="subspider",
     version="1.0",
     description="SubSpider - Passive Subdomain & IP Discovery Tool",
-    author="YourName",
+    author="YasinShaikh2003",
     py_modules=["subspider"],
     install_requires=[
         "aiohttp",

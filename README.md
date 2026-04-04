@@ -14,8 +14,10 @@ SubSpider is a CLI-based passive subdomain discovery tool that finds subdomains 
 git clone https://github.com/YasinShaikh2003/SubSpider.git
 
 cd SubSpider
-
+python3 -m vevne sub
+source sub/bin/activate
 pip install -r requirements.txt
+pip install .
 
 ## Usage
 

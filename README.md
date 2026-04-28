@@ -15,7 +15,7 @@ git clone https://github.com/YasinShaikh2003/SubSpider.git
 
 cd SubSpider 
 
-python3 -m vevne sub
+python3 -m venv sub
 
 source sub/bin/activate
 
